@@ -4,8 +4,8 @@
 
 - [x] basic html interface
 - [x] cam in or image input
-- [x] js to send and receive analysed image
 - [x] server.py to interface with server
+- [x] js to receive and analyse image
 - [x] relay audio out
 
 The repository can be used as a starting point to deploy any model on Render.
