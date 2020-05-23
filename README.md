@@ -1,5 +1,13 @@
 # Web Application for deploying neural net model on [Render](https://render.com)
 
+# TODO
+
+- [x] basic html interface
+- [x] cam in or image input
+- [x] js to send and receive analysed image
+- [x] server.py to interface with server
+- [x] relay audio out
+
 The repository can be used as a starting point to deploy any model on Render.
 
 Guide for production deployment :
