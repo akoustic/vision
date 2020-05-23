@@ -9,3 +9,11 @@ docker build -t aiSight . && docker run --rm -it -p 5000:5000 aiSight
 ```
 
 The guide for production deployment :
+
+
+
+
+
+
+
+It's officially time to shift from Heroku to Render.
