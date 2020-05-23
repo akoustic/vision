@@ -41,15 +41,15 @@ function analyze() {
       el("result-label").innerHTML = `Predicted note denomination outcome =${response["result"]}`;
       compString = `${response["result"]}`;
       if (compString == `100;inr`)
-        setAudio('https://raw.githubusercontent.com/McSohan/fastai-v3/webcam_attempt/100rs.wav');
+        setAudio('https://raw.githubusercontent.com/mayhem-am/vision/100rs.wav');
       else if (compString == `50;inr`)
-        setAudio('https://raw.githubusercontent.com/McSohan/fastai-v3/webcam_attempt/50rs.wav');
+        setAudio('https://raw.githubusercontent.com/mayhem-am/vision/50rs.wav');
       else if(compString == `200;inr`)
-        setAudio('https://raw.githubusercontent.com/McSohan/fastai-v3/webcam_attempt/200rs.wav');
+        setAudio('https://raw.githubusercontent.com/mayhem-am/vision/200rs.wav');
       else if(compString == `500;inr`)
-        setAudio('https://raw.githubusercontent.com/McSohan/fastai-v3/webcam_attempt/500rs.wav');
+        setAudio('https://raw.githubusercontent.com/mayhem-am/vision/500rs.wav');
       else
-        setAudio('https://raw.githubusercontent.com/McSohan/fastai-v3/webcam_attempt/notindian.wav');
+        setAudio('https://raw.githubusercontent.com/mayhem-am/vision/notindian.wav');
     }
     el("analyze-button").innerHTML = "Analyze";
     audio.play();
