@@ -1,2 +1,2 @@
 * The .pth files should get downloaded here.
-* Don't put your models inside this folder beforehand as these files can be large in size, and we want to keep our cloud deployment as light as possible and ask the app to download whatever file it needs.
+* Preferably a serialized pickle file = 'https://drive.google.com/uc?export=download&id=1q6Yk4zLA1sk0vcFF1m6Z9v5_2_dXSFIj'
