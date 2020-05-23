@@ -1,4 +1,4 @@
-Web Application for deploying neural net model on [Render](https://render.com)
+# Web Application for deploying neural net model on [Render](https://render.com)
 
 The repository can be used as a starting point to deploy any model on Render.
 
