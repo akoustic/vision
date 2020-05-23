@@ -2,7 +2,7 @@
 
 The repository can be used as a starting point to deploy any model on Render.
 
-The guide for production deployment :
+Guide for production deployment :
 
 * Fork this repository or clone the app/ folder into your Github account.
 * Upload your trained model file.
