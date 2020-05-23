@@ -16,7 +16,7 @@ The guide for production deployment :
 
 
 
-It's officially time to shift from Heroku to Render :
+Officially time to shift from Heroku to Render :
 
 * Although expedient, moving from AWS to Render eliminated a lot of infrastructure complexity.
 * GCP recommended for students but compares nothing against AWS Services
