@@ -1,4 +1,4 @@
-# Web Application for deploying the neural net model on [Render](https://render.com)
+# Web Application for deploying neural net model on [Render](https://render.com)
 
 The repository can be used as a starting point to deploy any model on Render.
 
@@ -18,7 +18,7 @@ The guide for production deployment :
 
 Officially time to shift from Heroku to Render :
 
-* Although expedient, moving from AWS to Render eliminated a lot of infrastructure complexity.
-* GCP recommended for students but compares nothing against AWS Services
+* Although being expedient, moving from AWS to Render eliminated a lot of infrastructure complexity.
+* GCP recommended for students but compares nothing against AWS Services.
 
 Choose wisely
