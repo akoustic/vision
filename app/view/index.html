@@ -22,7 +22,8 @@
                type='file'
                name='file'
                accept='image/*'
-               capture='user'
+               //capture = 'environment'    # for front camera 
+               capture='user' //opens webcam if available with prompt, in browsers which enable access to webcam 
                onchange='showPicked(this)'>
       </div>
       <button class='choose-file-button' type='button' onclick='showPicker()'>Select a valid image</button>
