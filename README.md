@@ -1,5 +1,8 @@
 # Web Application for deploying neural net model on [Render](https://render.com)
 
+![42okf4](https://user-images.githubusercontent.com/43638852/82763843-241d4580-9e28-11ea-944e-3b01d8f7b2ba.gif)
+
+
 # TODO
 
 - [x] basic html interface
@@ -33,6 +36,5 @@ docker build -t "repo-name" . && docker run --rm -it -p 5000:5000 "repo-name"
 Officially time to shift from Heroku to Render :
 
 * Although being expedient, moving from AWS to Render eliminated a lot of infrastructure complexity.
-* GCP recommended for students but compares nothing against AWS Services.
+* I would prefer GCP being a student but it compares nothing against AWS Services.
 
-Choose wisely
